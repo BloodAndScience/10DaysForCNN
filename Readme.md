@@ -3,6 +3,7 @@
 ### Links
 
 - [Best practical course ever](https://rutracker.org/forum/viewtopic.php?t=5872308)
+- [Best book from course](https://nnmclub.to/forum/viewtopic.php?t=1476203)
 
 
 - Day 0 Practical Use
