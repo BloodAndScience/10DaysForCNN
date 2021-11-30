@@ -1,9 +1,15 @@
 # 10 Days For CNN
 
-### Links
+## Rules 
+
+- Everyday 1 neuro network no matter what.
+
+## Links
 
 - [Best practical course ever](https://rutracker.org/forum/viewtopic.php?t=5872308)
 - [Best book from course](https://nnmclub.to/forum/viewtopic.php?t=1476203)
+- [PyImage Search I recomend as pair start point](https://www.pyimagesearch.com/)
+
 
 
 - Day 0 Practical Use
