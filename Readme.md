@@ -18,7 +18,7 @@
 
 ## Day 0 
 
-###  
+###  todo
 
 - TensorFlow official web page
 - Jupyter notebooks
@@ -26,11 +26,14 @@
 - Keggle
 
 
+## Day 1
 
-### Chose right book
+### Form follow the shape
 
-### Existing Usecases
+- Metrics:
+	- Time
+	- Countity 
+	- Speed 
+	- CNN per week
+	- Easiest way possible
 
-### Practical tasks
-
-### Crytical non Crytical
