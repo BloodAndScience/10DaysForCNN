@@ -1,5 +1,9 @@
 # 10 Days For CNN
 
+
+![Keras](CheetSheats\P-Keras.jpg)
+![Keras](CheetSheats\P-ImportingData.jpg)
+
 ## Rules 
 
 - Everyday 1 neuro network no matter what.
