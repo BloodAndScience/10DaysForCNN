@@ -14,6 +14,27 @@
 - [Best book from course](https://nnmclub.to/forum/viewtopic.php?t=1476203)
 - [PyImage Search I recomend as pair start point](https://www.pyimagesearch.com/)
 
+## DataSources
+
+```py
+tf.keras.datasets.
+```
+
+`boston_housing` module: Public API for tf.keras.datasets.boston_housing namespace.
+
+`cifar10`	module: Public API for tf.keras.datasets.cifar10 namespace.
+
+`cifar100`	module: Public API for tf.keras.datasets.cifar100 namespace.
+
+`fashion_mnist`	module: Public API for tf.keras.datasets.fashion_mnist namespace.
+
+`imdb`		module: Public API for tf.keras.datasets.imdb namespace.
+
+`mnist`	 	module: Public API for tf.keras.datasets.mnist namespace.
+
+`reuters`	module: Public API for tf.keras.datasets.reuters namespace.
+
+
 
 
 - Day 0 Practical Use
