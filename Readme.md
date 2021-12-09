@@ -62,3 +62,24 @@ tf.keras.datasets.
 	- CNN per week
 	- Easiest way possible
 
+### Noted
+
+`traing_images.shape`
+>(6000,28,28)
+
+#### Black and white plot
+
+`plt.imshow(tri[i],cmap=plt.cm.binary)`
+
+
+### Layers
+
+[Layer Types](https://www.tensorflow.org/api_docs/python/tf/keras/layers)
+
+- `Flatten`  - Matrix into array
+- `Dense` - comapring data layer
+- `Softmax` - Get total probability (typically last label)
+
+### Optimizer
+
+`model.compile(optimizer='adam',`
